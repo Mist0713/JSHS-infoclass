@@ -6,6 +6,7 @@
 - [스택(Stack)](https://github.com/Mist0713/JSHS-infoclass/blob/main/%EC%8A%A4%ED%83%9D.md)
 - [큐(Queue)](https://github.com/Mist0713/JSHS-infoclass/blob/main/%ED%81%90.md)
 - [순차 탐색(Linear Search)](https://github.com/Mist0713/JSHS-infoclass/blob/main/%EC%88%9C%EC%B0%A8%20%ED%83%90%EC%83%89.md)
+- [이진 탐색(Binary Search)](https://github.com/Mist0713/JSHS-infoclass/blob/main/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89.md)
 
 ### 같이 읽으면 좋은것들
 
