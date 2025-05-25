@@ -1,6 +1,5 @@
 # JSHS-infoclass
-
-[옵시디언](https://obsidian.md/)앱에 최적화 되있음
+<img height="32" width="32" src="https://cdn.simpleicons.org/obsidian/7C3AED/7C3AED" /> [옵시디언](https://obsidian.md/)앱에 최적화 되있음
 
 ### 만들어진 해석본
 
