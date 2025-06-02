@@ -6,7 +6,7 @@
 
 # <font color="orange">DFS(깊이 우선 탐색)</font>
 
-![origin url ==>https://blog.kakaocdn.net/dn/bEpXQk/btrdSd6mdIY/5jnQjr8l5uEZPtrNGPOjfK/img.gif|center](DFS_animation.gif.gif)
+![origin url ==>https://blog.kakaocdn.net/dn/bEpXQk/btrdSd6mdIY/5jnQjr8l5uEZPtrNGPOjfK/img.gif|center](https://github.com/Mist0713/JSHS-infoclass/blob/main/Sources/DFS_animation.gif.gif)
 
 
 ### <font color="orange">전체 코드</font>
@@ -364,5 +364,5 @@ id2((1)) --- id5((4))
 ```
 ## <font color="orange">BFS(너비 우선 탐색)</font>
 
-![image|center](BFS_animation.gif)
+![image|center](https://github.com/Mist0713/JSHS-infoclass/blob/main/Sources/BFS_animation.gif)
 
