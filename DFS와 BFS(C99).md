@@ -119,9 +119,7 @@ void DFS_MAT(G_TYPE* one, int pic)
 
 		for (int i = one->num_ver - 1; i >= 0; i--) {
 			if (one->ad_mat[pre][i] == 1 && visited[i] == 0){
-				printf("%d\n", i);
 				push(&two, i);
-				visited[i] = 1;
 			}
 		}
 	}
