@@ -8,6 +8,7 @@
 
 ![origin url ==>https://blog.kakaocdn.net/dn/bEpXQk/btrdSd6mdIY/5jnQjr8l5uEZPtrNGPOjfK/img.gif|center](https://github.com/Mist0713/JSHS-infoclass/blob/main/Sources/DFS_animation.gif.gif)
 
+단순 참고용 애니메이션, 선생님 코드에서는 노드 번호가 큰걸 먼저 push를 함
 
 ### <font color="orange">전체 코드</font>
 
